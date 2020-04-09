@@ -1,0 +1,5 @@
+name: gateway
+main: org.lyondar.gateway.Gateway
+version: 1.0
+api-version: 1.15.2
+commands:
